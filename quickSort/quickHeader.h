@@ -1,0 +1,2 @@
+long int *initializeArray(long int n);                              //initialize the array with the random numbers
+long long int quickSort(long int a[], long int low, long int high); //return the number of comparisons
